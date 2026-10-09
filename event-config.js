@@ -1,7 +1,7 @@
 /** Dados da formatura. Preencha os campos vazios quando os detalhes forem definidos. */
 window.INVITATION_CONFIG = Object.freeze({
   graduateName: 'Maitê',
-  dateLabel: '06 de março de 2026',
+  dateLabel: '06 de março de 2027',
   timeLabel: '',                 // Ex.: 'Às 20h'
   locationName: 'República Eventos, Marília/SP',
   address: '',                   // Endereço completo, para o mapa
